@@ -1,5 +1,5 @@
 # docker-cloc
-unofficial docker image for cloc tool(AlDanial/cloc)
+unofficial docker image for [cloc](https://github.com/AlDanial/cloc) tool
 
 # Usage:
   ```
